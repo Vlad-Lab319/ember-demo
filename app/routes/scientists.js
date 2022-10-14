@@ -2,6 +2,6 @@ import Route from '@ember/routing/route';
 
 export default class ScientistsRoute extends Route {
   model() {
-    return ['Marie Curie', 'Mae Jemison', 'Albert Hofman', 'Dmitry Mendeleev', 'test github'];
+    return ['Marie Curie', 'Mae Jemison', 'Albert Hofman', 'Dmitry Mendeleev', ];
   }
 }
